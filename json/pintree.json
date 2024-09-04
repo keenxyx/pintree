@@ -233,6 +233,13 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 17253455399456,
+                "title": "BT之家",
+                "icon": "https://www.1lou.info/plugin/fox_theme_btbttme/fox/img/logo.gif",
+                "url": "https://www.1lou.info/"
+              },
+              {
+                "type": "link",
                 "addDate": 1725345539617,
                 "title": "SeedHub | 影视&动漫分享",
                 "icon": "https://logo.clearbit.com/www.seedhub.cc",

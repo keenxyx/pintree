@@ -429,7 +429,8 @@
 
           if (folder.children && folder.children.length > 0) {
             const subList = document.createElement('ul');
-            subList.className = 'ml-4 space-y-2 hidden';
+            subList.className = 'ml-4 space-y-2';
+             // subList.className = 'ml-4 space-y-2 hidden';
             renderNavigation(folder.children, subList, false, path.concat({ title: folder.title, children: folder.children }));
             container.appendChild(subList);
 
